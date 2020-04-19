@@ -4,7 +4,16 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## HI, I'M SARTHAK SONI
+
+I am starting this blog as the name suggests become Jack of all trades. Right now you will find blogs on variety of topics right now. As this blog grows an audience I will start focusing on topics that you like.
+
+### My newsletter is the best way to follow all the work I’m doing. Sign up below.    
+[Sign Up](https://forms.gle/Kuh1y4eoVmKoCvzu5)
+
+
+
+<!-- ## Installation
 
 Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
@@ -50,4 +59,4 @@ plugins:
 ![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/73125195-5fa42200-3fa4-11ea-89f8-d09c1d6fe252.png)
-
+ -->
