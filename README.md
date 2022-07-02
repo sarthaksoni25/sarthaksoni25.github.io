@@ -10,9 +10,9 @@ layout: page
 
 -   You probably came here to read [my blog.](https://sarthaksoni25.github.io/)
 -   I spend my time [reading](https://www.goodreads.com/user/show/82785921-sarthak-soni) and [writing](https://sarthaksoni25.github.io/)
+-   I post book summaries on my blog.
 -   I like using bullet points.
 
-Thanks for checking out my blog. Have a great day 🤗
 
 
 
