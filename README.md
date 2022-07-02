@@ -4,12 +4,15 @@ permalink: "/about/"
 layout: page
 ---
 
-## HI, I'M SARTHAK SONI
 
-I am starting this blog as the name suggests become Jack of all trades. Right now you will find blogs on variety of topics right now. As this blog grows an audience I will start focusing on topics that you like.
 
-### My newsletter is the best way to follow all the work I’m doing. Sign up below.    
-[Sign Up](https://forms.gle/Kuh1y4eoVmKoCvzu5)
+👋, I am Sarthak Soni.
+
+-   You probably came here to read [my blog.](https://sarthaksoni25.github.io/)
+-   I spend my time [reading](https://www.goodreads.com/user/show/82785921-sarthak-soni) and [writing](https://sarthaksoni25.github.io/)
+-   I like using bullet points.
+
+Thanks for checking out my blog. Have a great day 🤗
 
 
 
