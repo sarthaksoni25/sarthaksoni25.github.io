@@ -3,43 +3,61 @@ title: "Proof Of Work"
 permalink: "/pow/"
 layout: page
 ---
-
-<h2> MathWorks (~ 2 years) </h2>
-
-<ul> 
+<h2>MathWorks (~ 3 years)</h2>
+<ul>
     <li>
-        <h3>Software Engineer (March 2022 - Now)</h3>
+        <h3>Development Applications Engineer, Unit Performance Testing (2022 - Present)</h3>
         <ul>
-            <li>
-                Worked on the Performance testing Platform, porting server code of Bulk Mailer from MATLAB to Node JS
-            </li>
-            <li>
-                Improved time performance for web services used to deliver Bulk Emails using <a href="https://nodemailer.com/about/">Node Mailer</a> 
-            </li>
-            <li>
-                Improved throughput of older process by 10 times. This resulted in improvement of 7.5 hours for getting performance data for completed Jobs.
-            </li>
-        </ul> 
-    </li>
-    <li>
-        <h3>Full Time EDG (July 2021 - March 2022)</h3> 
-        <ul>
-            <li>Worked as part of the Engineering Development Group (EDG) within MathWorks which serves as an entry point for graduates.
-                Tools: MATLAB, Simulink, Salesforce
-             </li>  
-             <li> Primary roles included working with various teams within MathWorks, providing technical support for customers through phone and email, contributing to "meta"-projects and processes within EDG.
-            </li>
-            <li>  Resolved 100+ Technical support cases, built deep intimacy with the product family and acquired context on how customers use MathWorks products. </li>
-            <li>Soft skills: Triaging and balancing customer cases and other priorities, communication with customers</li>
+            <li>Developed web applications with React and Node.js, enhancing navigation and issue pinpointing.</li>
+            <li>Transitioned UPT Install process to Node.js, enabling MATLAB image installation across 300 machines in US HQ for performance testing.</li>
+            <li>Developed a Node.js email service, scaling notifications to 2000+ developers daily and reducing processing time by 7.5 hours per task.</li>
+            <li>Converted RunLikeUPT scripts from MATLAB and Perl to Node.js, reducing technical debt and improving issue reproducibility.</li>
+            <li>Collaborated with international teams to extend UPT as a visualization service, integrating Amazon S3 Storage and external hardware logging.</li>
+            <li>Built a GitLab pipeline for seamless code deployment, improved server logging, and developed Jest tests.</li>
+            <li>Led performance testing for MATLAB and Simulink on 300 machines, ensuring consistency across various configurations.</li>
         </ul>
     </li>
-    <li><h3>6 Month Engineering Development Group (EDG) Internship (January 2021 - June 2021)</h3> 
+    <li>
+        <h3>Engineering Development Group (2021-2022)</h3>
         <ul>
-            <li>Emulated Raspberry Pi environment using  <a href="https://www.qemu.org/">QEMU</a> (Open source machine emulator and virtualizer) and Utilize it for Testing</li>  
-            <li>Reduced load on existing Raspberry Pi's in MathWorks Bangalore Office by using the virtual Raspberry Pi environment</li>
-            <li> Worked on Technical Support for MATLAB and Simulink Software</li>
+            <li>Participated in the EDG program, collaborating on two key projects:</li>
+            <ul>
+                <li>Automated testing in QEMU instead of physical hardware with the hardware team.</li>
+                <li>Set up a Node.js web service using SQL and MongoDB.</li>
+            </ul>
+            <li>Served as Group Leader, handling 100+ customer cases from India and Korea and managing case assignments.</li>
+            <li>Facilitated efficient communication between customers and developers.</li>
+        </ul>
+    </li>
+    <li>
+        <h3>6 Month Engineering Development Group (EDG) Internship (January 2021 - June 2021)</h3>
+        <ul>
+            <li>Emulated Raspberry Pi environment using <a href="https://www.qemu.org/">QEMU</a> for testing purposes.</li>
+            <li>Reduced load on existing Raspberry Pi's in MathWorks Bangalore Office by using the virtual Raspberry Pi environment.</li>
+            <li>Provided technical support for MATLAB and Simulink software.</li>
         </ul>
     </li>
 </ul>
-    
-<!-- ![title](/assets/EmailImprovement.png) -->
+
+<h2>Other Experience</h2>
+<ul>
+    <li>
+        <h3>Research Intern, Arizona State University (2019)</h3>
+        <ul>
+            <li>Designed and implemented an automated pipeline to recommend data visualizations based on extracted keywords from news articles.</li>
+            <li>Utilized advanced NLP techniques and curated a dataset from FiveThirtyEight.com.</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+    <li>
+        <h3>Identifying Traffic Differentiation in Mobile Networks | Prof. V. Sridhar</h3>
+        <ul>
+            <li>Developed a Python-based tool to identify ISP traffic differentiation, analyzing popular applications in India for net neutrality violations.</li>
+            <li>Utilized VPN Proxy and Python scripts to capture and compare encrypted vs. non-encrypted traffic.</li>
+            <li>Implemented data visualization in Python to present findings on network performance discrepancies.</li>
+        </ul>
+    </li>
+</ul>
