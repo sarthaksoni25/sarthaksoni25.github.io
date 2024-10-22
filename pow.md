@@ -5,10 +5,8 @@ permalink: "/pow/"
 layout: page
 
 ---
-
-<h2> MathWorks (~ 2 years) </h2>
-
-<ul> 
+<h2>MathWorks (~ 3 years)</h2>
+<ul>
     <li>
         <h3>Software Development Engineer 2 (January 2022 – October 2024)</h3>
         <ul>
