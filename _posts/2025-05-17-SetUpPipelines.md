@@ -25,8 +25,8 @@ For the backend (hosted on EC2), I’m using SSH via a `.pem` file. GitHub Actio
 Still rough around the edges, but the pipeline is live and working. Pretty cool to see it deploy cleanly with every push to `main`.
 
 Next things to work on is:
-1) HTTPS since it's still insecure with http
-2) Global Leaderboard
-3) Proper authentication
+1. HTTPS since it's still insecure with http
+2. Global Leaderboard
+3. Proper authentication
 
 Stay tuned
