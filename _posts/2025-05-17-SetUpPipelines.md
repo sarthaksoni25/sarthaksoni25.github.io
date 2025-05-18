@@ -12,7 +12,7 @@ Here’s how it looks currently:
 
 ![Login Screen](/assets/Login.png)
 
-![Game History](/assets/GameHistroy.png)
+![Game History](/assets/GameHistory.png)
 
 ---
 
