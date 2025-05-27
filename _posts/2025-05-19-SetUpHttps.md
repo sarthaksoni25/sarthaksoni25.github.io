@@ -1,5 +1,5 @@
 ---
-title: "Got the Domain name"
+title: "AddVenture is Live at add-venture.xyz!"
 mathjax: true
 layout: post
 ---
