@@ -8,7 +8,6 @@ layout: page
 
 - **What I do:** Full-stack / systems engineer (5 yrs). I build logging, telemetry, and regression-detection tools for large CI fleets; also ship React/Node products.
 - **Research interests:** ML systems · distributed systems · logging & tracing · regression detection & testing · reliability · data/streaming.
-- **Applying for:** PhD starting **Aug 2026 (flexible)** in ML/Distributed Systems & Observability.
 
 **Quick links**
 - 🎓 **Google Scholar:** <https://scholar.google.com/citations?user=zkeD_bQAAAAJ>
